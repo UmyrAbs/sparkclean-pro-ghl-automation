@@ -78,21 +78,21 @@ SparkClean Pro is a demo home cleaning business project built in GoHighLevel. Th
 
 ### Appointment Scheduling
 
-![Free Consultation Calendar](screenshots/03-free-consultation-calender.PNG)
+![Free Consultation Calendar](screenshot/03-free-consultation-calender.PNG)
 
-![Site Inspection Calendar](screenshots/04-site-inspection-calender.PNG)
+![Site Inspection Calendar](screenshot/04-site-inspection-calender.PNG)
 
-![Confirmed Appointment](screenshots/05-confirmed-appointment.PNG)
+![Confirmed Appointment](screenshot/05-confirmed-appointment.PNG)
 
 ### CRM Pipelines
 
-![New Leads Pipeline](screenshots/06-new-lead-pipeline.PNG)
+![New Leads Pipeline](screenshot/06-new-lead-pipeline.PNG)
 
-![Active Jobs Pipeline](screenshots/07-active-jobs-pipeline.PNG)
+![Active Jobs Pipeline](screenshot/07-active-jobs-pipeline.PNG)
 
-![Custom Contact Fields](screenshots/08-custom-contact-fields.PNG)
+![Custom Contact Fields](screenshot/08-custom-contact-fields.PNG)
 
-![Opportunities Overview](screenshots/09-opportunities-overview.PNG)
+![Opportunities Overview](screenshot/09-opportunities-overview.PNG)
 
 ### Automation Workflows
 
@@ -105,31 +105,31 @@ Detailed workflow documentation:
 - [Estimate Accepted](workflows/estimate-accepted.md)
 - [Invoice Paid & Review Request](workflows/invoice-paid-review-request.md)
 
-![Workflows Overview](screenshots/10-workflows-overview.PNG)
+![Workflows Overview](screenshot/10-workflows-overview.PNG)
 
-![New Lead Nurture Workflow](screenshots/11-new-lead-nurture.png)
+![New Lead Nurture Workflow](screenshot/11-new-lead-nurture.png)
 
-![Appointment Workflow](screenshots/12-Appointment-Workflow.png)
+![Appointment Workflow](screenshot/12-Appointment-Workflow.png)
 
-![Missed Appointment Workflow](screenshots/13-missed-appointment-workflow.png)
+![Missed Appointment Workflow](screenshot/13-missed-appointment-workflow.png)
 
-![Estimate Follow Up Workflow](screenshots/14-estimate-follow-up-workflow.png)
+![Estimate Follow Up Workflow](screenshot/14-estimate-follow-up-workflow.png)
 
-![Estimate Accepted Workflow](screenshots/15-extimate-accepted-workflow.png)
+![Estimate Accepted Workflow](screenshot/15-extimate-accepted-workflow.png)
 
-![Invoice Paid Workflow](screenshots/16-invoice-paid-review-workflow.png)
+![Invoice Paid Workflow](screenshot/16-invoice-paid-review-workflow.png)
 
 ### Estimates & Invoices
 
-![Estimate Template](screenshots/17-estimate-template.PNG)
+![Estimate Template](screenshot/17-estimate-template.PNG)
 
-![Invoice Template](screenshots/18-invoice-template.PNG)
+![Invoice Template](screenshot/18-invoice-template.PNG)
 
 ### Dashboard & Reporting
 
-![Dashboard](screenshots/19-dashboard.PNG)
+![Dashboard](screenshot/19-dashboard.PNG)
 
-![Appointment Report](screenshots/20-appointment-report.PNG)
+![Appointment Report](screenshot/20-appointment-report.PNG)
 
 ## Testing & Validation
 
