@@ -105,17 +105,31 @@ Detailed workflow documentation:
 - [Estimate Accepted](workflows/estimate-accepted.md)
 - [Invoice Paid & Review Request](workflows/invoice-paid-review-request.md)
 
+### Workflows Overview
+
 ![Workflows Overview](screenshot/10-workflows-overview.PNG)
+
+### New Lead Nurture Workflow
 
 ![New Lead Nurture Workflow](screenshot/11-new-lead-nurture.png)
 
+### Appointment Workflow
+
 ![Appointment Workflow](screenshot/12-Appointment-Workflow.png)
+
+### Missed Appointment Workflow
 
 ![Missed Appointment Workflow](screenshot/13-missed-appointment-workflow.png)
 
+### Estimate Follow Up Workflow
+
 ![Estimate Follow Up Workflow](screenshot/14-estimate-follow-up-workflow.png)
 
+### Estimate Accepted Workflow
+
 ![Estimate Accepted Workflow](screenshot/15-extimate-accepted-workflow.png)
+
+### Invoice Paid Workflow
 
 ![Invoice Paid Workflow](screenshot/16-invoice-paid-review-workflow.png)
 
