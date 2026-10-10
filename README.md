@@ -70,11 +70,11 @@ SparkClean Pro is a demo home cleaning business project built in GoHighLevel. Th
 
 ### Landing Page
 
-![SparkClean Pro Landing Page](screenshots/01-landing-page.png)
+![SparkClean Pro Landing Page](screenshot/01-landing-page.png)
 
 ### Lead Capture Form
 
-![Lead Capture Form](screenshots/02-lead-capture-form.png)
+![Lead Capture Form](screenshot/02-lead-capture-form.png)
 
 ### Appointment Scheduling
 
