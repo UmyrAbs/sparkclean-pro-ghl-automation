@@ -17,6 +17,12 @@ SparkClean Pro is a demo home cleaning business project built in GoHighLevel. Th
 - Automate post payment communication and review requests.
 - Demonstrate end to end testing of key customer journeys.
 
+## Project Walkthrough Video
+
+Watch the complete GoHighLevel project walkthrough, including CRM setup, lead capture, appointment booking, automation workflows, estimates, invoices, and end to end testing.
+
+[Watch the Project Walkthrough on Loom](https://www.loom.com/share/bf609192d3c1457e9b255dc21b46503e)
+
 ## Key Features
 
 ### CRM & Pipeline Management
