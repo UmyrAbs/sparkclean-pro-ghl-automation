@@ -23,6 +23,8 @@ Watch the complete GoHighLevel project walkthrough, including CRM setup, lead ca
 
 [Watch the Project Walkthrough on Loom](https://www.loom.com/share/bf609192d3c1457e9b255dc21b46503e)
 
+Recommended playback speed: 1.2x
+
 ## Key Features
 
 ### CRM & Pipeline Management
